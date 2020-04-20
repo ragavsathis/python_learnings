@@ -1,2 +1,2 @@
-# python_subprocess_ex
-This project is to check the different options/possibilities in subprocess moudule in python
+# python_learnings
+This project is to understand different concepts in python and also add new module which has been tried out
